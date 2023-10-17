@@ -1,4 +1,4 @@
-# faculdade
+# Faculdade
 Projetos realizados durante a graduação em Matemática Computacional - UFMG
 
 
