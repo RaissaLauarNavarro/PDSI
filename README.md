@@ -1,5 +1,5 @@
-# Faculdade
-Projetos realizados durante a graduação em Matemática Computacional - UFMG
+# PDSI
+Projetos realizados durante a matéria Programação e Desenvolvimento de Software (PDSI) da Graduação em Matemática Computacional - UFMG
 
 
 <b>Verificador Sudoku (linguagem: C):</b> o programa consiste na leitura de até 10 tabuleiros de sudoku e na validação de seus jogos, analizando linhas, colunas e quadrantes.
